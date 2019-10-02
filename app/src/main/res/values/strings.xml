@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySecretCode</string>
+    <string name="buttonTitle">Check Code</string>
+</resources>
